@@ -1,8 +1,8 @@
 {
-  "name": "roots/sage-lib",
+  "name": "gofullstack/sage-lib",
   "license": "MIT",
   "description": "Library files for Sage Starter Theme",
-  "homepage": "https://roots.io/sage/",
+  "homepage": "https://github.com/gofullstack/",
   "authors": [
     {
       "name": "QWp6t",
@@ -13,14 +13,18 @@
       "name": "Ben Word",
       "email": "ben@benword.com",
       "homepage": "https://github.com/retlehs"
+    },
+    {
+      "name": "Mike Biang",
+      "email": "mike@gofullstack.com",
+      "homepage": "https://github.com/gofullstack"
     }
   ],
   "keywords": [
     "wordpress"
   ],
   "support": {
-    "issues": "https://github.com/roots/sage-lib/issues",
-    "forum": "https://discourse.roots.io/"
+    "issues": "https://github.com/gofullstack/sage-lib/issues"
   },
   "autoload": {
     "psr-4": {
