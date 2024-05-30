@@ -1,5 +1,5 @@
 {
-  "name": "roots/sage-lib",
+  "name": "gofullstack/sage-lib",
   "license": "MIT",
   "description": "Library files for Sage Starter Theme",
   "homepage": "https://roots.io/sage/",
@@ -13,14 +13,18 @@
       "name": "Ben Word",
       "email": "ben@benword.com",
       "homepage": "https://github.com/retlehs"
+    },
+    {
+      "name": "Mike Biang",
+      "email": "mike@gofullstack.com",
+      "homepage": "https://github.com/mbiang"
     }
   ],
   "keywords": [
     "wordpress"
   ],
   "support": {
-    "issues": "https://github.com/roots/sage-lib/issues",
-    "forum": "https://discourse.roots.io/"
+    "issues": "https://github.com/gofullstack/sage-lib/issues"
   },
   "autoload": {
     "psr-4": {
@@ -30,11 +34,11 @@
   "require": {
     "php": "^7.4|^8.0",
     "composer/installers": "^2.0",
-    "illuminate/view": "^8.82",
-    "illuminate/config": "^8.82"
+    "illuminate/view": "^11.9",
+    "illuminate/config": "^11.9"
   },
   "require-dev": {
-    "squizlabs/php_codesniffer": "^3.6.2"
+    "squizlabs/php_codesniffer": "~3.10.0"
   },
   "scripts": {
     "test": [
